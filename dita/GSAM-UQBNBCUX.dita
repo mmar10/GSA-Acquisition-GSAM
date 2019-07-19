@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?Fm Validation Off?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
@@ -157,7 +156,7 @@ and A-E services)</p>
                      <entry colname="5" class="- topic/entry ">
                         <p class="- topic/p ">R</p>
                      </entry>
-                     <entry colname="6" class="- topic/entry ">  
+                     <entry colname="6" class="- topic/entry ">
                         <p class="- topic/p ">=</p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
@@ -1781,7 +1780,7 @@ Contracts</p>
                                  class="- topic/xref ">552.216-75</xref>
                         </p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "> 
+                     <entry colname="3" class="- topic/entry ">
                         <xref href="GSAM-KVQDEJRV.dita#KVQDEJRV"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">516.506</xref>(e)</entry>
@@ -2364,7 +2363,7 @@ of Government</p>
                      <entry colname="1" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">C</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">  
+                     <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">
                            <xref href="GSAM-552.232-5.dita#id1945A0T0J0W"
                                  outputclass="fm:ParaNumOnly"
@@ -3719,7 +3718,7 @@ of Records by GSA (Federal Supply Schedules)</p>
                                  outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">538.273</xref>(d)(8)</p>
                      </entry>
-                     <entry colname="4" class="- topic/entry ">  
+                     <entry colname="4" class="- topic/entry ">
                         <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Discounts
 for Prompt Payment</p>
                      </entry>
@@ -4490,7 +4489,7 @@ Taxes and Duties</p>
                                  outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">538.273</xref>(d)(26)</p>
                      </entry>
-                     <entry colname="4" class="- topic/entry ">  
+                     <entry colname="4" class="- topic/entry ">
                         <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">English
 Language and U.S. Dollar Requirements</p>
                      </entry>
@@ -5096,7 +5095,7 @@ Authorization</p>
                         <p class="- topic/p ">Security Requirements for Unclassified Information
 Technology Resources</p>
                      </entry>
-                     <entry colname="5" class="- topic/entry ">  
+                     <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p "/>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
@@ -7095,7 +7094,7 @@ to Influence Certain Federal Transactions</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">52.203-13</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">  
+                     <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">
                            <xref href="GSAM-PNPFMIQV.dita#PNPFMIQV"
                                  outputclass="fm:TopicList"
